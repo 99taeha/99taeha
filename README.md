@@ -40,8 +40,8 @@
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=222">
 </a>
 
-[<img src="https://comfy-quokka.github.io/assets/favicon.ico" width="15">](https://comfy-quokka.github.io/)
-[Personal Github Pages](https://comfy-quokka.github.io/)
+[<img src="https://99taeha.github.io/assets/favicon.ico" width="15">](https://99taeha.github.io/)
+[Personal Github Pages](https://99taeha.github.io/)
 
 <br>
 
